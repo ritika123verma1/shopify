@@ -1,31 +1,50 @@
-Shopify - An eCommerce Website
+# Shopify - An eCommerce Website
 
-Author: Ritika
+![GitHub repo
+size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 
-Shopify is a fully responsive eCommerce website with maximum compatibility across mobile devices, built using HTML, CSS, and JavaScript.
-This project focuses on creating a clean, modern online shopping interface with responsive layouts and smooth user experience.
+**Author: Ritika**
 
-Demo
+Shopify is a fully responsive eCommerce website with maximum
+compatibility across mobile devices, built using HTML, CSS, and
+JavaScript. This project focuses on creating a clean, modern online
+shopping interface with responsive layouts and smooth user experience.
 
+------------------------------------------------------------------------
 
+## Demo
 
+![Shopify Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Shopify Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-Prerequisites
+------------------------------------------------------------------------
+
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-Git must be installed on your operating system.
+-   Git must be installed on your operating system.
 
-Installing Shopify
+------------------------------------------------------------------------
 
-To install Shopify, follow these steps:
+## Installing Shopify
 
-Linux and macOS:
+To install **Shopify**, follow these steps:
+
+### Linux and macOS:
+
+``` bash
 sudo git clone <your-repository-url>
+```
 
-Windows:
+### Windows:
+
+``` bash
 git clone <your-repository-url>
+```
 
-License
+------------------------------------------------------------------------
+
+## License
 
 This project is free to use for learning and development purposes.
